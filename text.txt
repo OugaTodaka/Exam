@@ -1,6 +1,3 @@
 テストファイルです
-<<<<<<< HEAD
-テストファイルだよなぁ？
-=======
+
 テストファイルかもしれません
->>>>>>> branch 'master' of https://github.com/OugaTodaka/Exam
