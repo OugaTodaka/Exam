@@ -12,4 +12,11 @@
 
 あと、温泉も好きです。
 
+<<<<<<< HEAD
 好きな言語はPythonです。
+=======
+takahashikeisuke
+>>>>>>> branch 'master' of https://github.com/OugaTodaka/Exam
+
+
+aaaaaaaaaaaaaaa
