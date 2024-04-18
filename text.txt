@@ -17,10 +17,13 @@
 =======
 takahashikeisuke
 >>>>>>> branch 'master' of https://github.com/OugaTodaka/Exam
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
 abaaabaaaaaaabaaaa
 =======
 aaacaaaaaaaaaaaca
+>>>>>>> branch 'master' of https://github.com/OugaTodaka/Exam
+=======
 >>>>>>> branch 'master' of https://github.com/OugaTodaka/Exam
